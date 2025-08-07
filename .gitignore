@@ -1,0 +1,18 @@
+# Node.js dependencies
+**/node_modules/
+
+# Local MongoDB data
+DB/
+
+# Logs
+**/logs
+**/*.log
+
+# Env vars
+**/.env*
+ 
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
